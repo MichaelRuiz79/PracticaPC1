@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticaPC1</string>
+    <string name="number1">Nota Parcial</string>
+    <string name="number2">Nota Ex. Final</string>
+    <string name="number3">Nota PEP</string>
+    <string name="btn_calcula">Calcular</string>
+    <string name="calcular_notas">Calcular</string>
+    <string name="Regresar">Regresar</string>
+</resources>
